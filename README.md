@@ -12,21 +12,21 @@
 
 ```shell
 # Web 前端
-git clone git@github.com:enqiangjing/password-online-web.git
+https://github.com/enqiangjing/password-online-web
 # uniapp 混合应用
-git clone git@github.com:enqiangjing/password-online-uniapp.git
+https://github.com/enqiangjing/password-online-uniapp
 ```
 
 #### 2. 后端API（基于Spring Boot）
 
 ```shell
-git clone git@github.com:enqiangjing/password-online-api.git
+https://github.com/enqiangjing/password-online-api
 ```
 
 #### 3.. 主仓库地址（本地址）
 
 ```shel
-git clone git@github.com:enqiangjing/password-online.git
+https://github.com/enqiangjing/password-online
 ```
 
 
